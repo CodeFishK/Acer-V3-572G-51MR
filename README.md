@@ -1,5 +1,5 @@
-Mode:Acer-V3-572G-51MR
-Share Hacktonish installation experience.
+Model:Acer-V3-572G-51MR
+Share Hackintosh installation experience.
 The configuration file is being updated and uploaded.
 *******************************************************
 型号:Acer-V3-572G-51MR
