@@ -7,7 +7,7 @@
 
 以下是本人电脑的配置信息
 
-电脑型号宏碁**Aspire V3-572G-51MR** 笔记本电脑
+电脑型号&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;宏碁**Aspire V3-572G-51MR** 笔记本电脑
 
 操作系统&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Windows 10 专业版  / MacOSMojave **10.14.4(18E226)**
 
