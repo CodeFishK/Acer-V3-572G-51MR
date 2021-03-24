@@ -44,4 +44,4 @@
 感谢：[黑果小兵的部落阁](https://blog.daliansky.net/)、[tonymacx86](https://www.tonymacx86.com/)等提供的软件及技术支持！
 
 
-~~~~本人远景更新地址：[Acer V3-572G-51MR 成功安装Mojave 10.14.3](http://bbs.pcbeta.com/viewthread-1809582-1-1.html) 欢迎大家讨论交流！~~~~
+~~本人远景更新地址：[Acer V3-572G-51MR 成功安装Mojave 10.14.3](http://bbs.pcbeta.com/viewthread-1809582-1-1.html) 欢迎大家讨论交流！~~
